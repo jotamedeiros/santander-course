@@ -9,3 +9,4 @@
 
 ##### Testando comando git push.
 ##### Testando comando git pull.
+##### Testando comando git fetch.
